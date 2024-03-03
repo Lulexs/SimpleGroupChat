@@ -1,2 +1,3 @@
-Simple group chat application made using python sockets. Application should work on any os, as long as there is python installed. To try application clone repository or manually download files. To run server from command line run python server.py <any_loopback_ip> <port> or python3 for linux. After that clients can be started via python client.py <same_ip_used_for_server> <same_port>.
+Simple group chat application made using python sockets. It works on any operating system with Python installed. To get started, clone the repository or download the files manually.
+To run the server, open the command line and enter python server.py <any_loopback_ip> (or python3 for Linux). Then, clients can join the chat by running python client.py <same_ip_used_for_server> <same_port>.
 Inspiration: https://realpython.com/python-sockets/
